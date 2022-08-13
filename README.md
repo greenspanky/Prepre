@@ -2,24 +2,20 @@
 
  Version 0.8
 
-**Задача**: Автоматическая регистрация **множества аккаунтов** и **профелей** антидетект браузера Dolphin на premint или же формы в twitter
+Task : Automatic registration of multiple accounts and profiles of Dolphin browser anti-detection on premint or forms on twitter
 
-**Бот** получает таблицу **"premint.csv"** - получая с нее аккаунты, пароли от metamask и самого dolphin.
+The bot receives the "premint.csv" table - getting accounts, passwords from metamask and dolphin itself from it.
 
-**План csv таблицы**:
-Таблица должна в себе содержать заполненные столбцы: **"почта долфин / №долфин"**; **"пасс долфин"**; **"метамаск пасс"**; **"твиттер данные"**.
+Plan csv table : The table must contain filled columns: "mail dolphin / No. dolphin" ; "pass dolphin" ; "metamask pass" ; "twitter data" .
 
-**Функция "прогрева" twitter аккаунта**, бот создает посты на тему криптовалюты, парся данные с новостного сайта про криптовалюту.
+The function of "warming up" twitter account , the bot creates posts on the topic of cryptocurrency, parsing data from a news site about cryptocurrency.
 
-**Бот имеет два принципа работы**:
-1. **Преминты**
-2. **Гивы**
+The bot has two working principles :
 
-**Принцип работы бота**:
-Эмулирует действия человека, который заполняет premint или же формы в twitter.
-Из-за большого кол-во аккаунтов у человека - уходит много времени на их "прогон" по всем premint или twitter гивов.
-Бот данную задачу оптимизирует экономя ваше время!
+Premints
+Gibes
+How the bot works : Emulates the actions of a person who fills out premint or twitter forms. Due to the large number of accounts a person has, it takes a lot of time to "run" them through all premint or twitter giveaways. The bot optimizes this task saving you time!
 
-Исходя из **ежедневных** тестов:
+Based on daily tests:
 
-**90% успешно** заполненных аккаунтов! Что является **хорошем** показателем.
+90% of successfully completed accounts! Which is a good indicator.
